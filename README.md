@@ -69,9 +69,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 4. **Tarayıcıda Görüntüleyin:**
    Tarayıcınızı açın ve `http://localhost:3000` adresine giderek siteyi görüntüleyin.
 
-## 🤝 Katkıda Bulunma
-
-Katkıda bulunmak isterseniz lütfen bir `Pull Request` gönderin. Büyük değişiklikler yapmadan önce tartışmak için bir `Issue` açmayı unutmayın.
 
 ## 📝 Lisans
 
